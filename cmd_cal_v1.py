@@ -22,7 +22,7 @@ while True:
     elif(userOperator == "+"):
         answer = firstNumber + secondNumber
     elif(userOperator == "-"):
-        answer = firstNumber + secondNumber
+        answer = firstNumber - secondNumber
     elif(userOperator == "/"):
         answer = firstNumber / secondNumber
     else:
